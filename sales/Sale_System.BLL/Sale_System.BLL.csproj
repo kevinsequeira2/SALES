@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Sale_System.DAL\Sale_System.DAL.csproj" />
+    <ProjectReference Include="..\Sale_System.DTO\Sale_System.DTO.csproj" />
+    <ProjectReference Include="..\Sale_system.MODEL\Sale_system.MODEL.csproj" />
+    <ProjectReference Include="..\Sale_System.UTILITY\Sale_System.UTILITY.csproj" />
+  </ItemGroup>
+
 </Project>

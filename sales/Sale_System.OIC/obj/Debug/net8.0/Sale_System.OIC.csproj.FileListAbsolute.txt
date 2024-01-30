@@ -1,0 +1,12 @@
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_System.OIC.deps.json
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_System.OIC.dll
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_System.OIC.pdb
+F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\Sale_System.OIC.GeneratedMSBuildEditorConfig.editorconfig
+F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\Sale_System.OIC.AssemblyInfoInputs.cache
+F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\Sale_System.OIC.AssemblyInfo.cs
+F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\Sale_System.OIC.csproj.CoreCompileInputs.cache
+F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\Sale_System.OIC.sourcelink.json
+F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\Sale_System.OIC.dll
+F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\refint\Sale_System.OIC.dll
+F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\Sale_System.OIC.pdb
+F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\ref\Sale_System.OIC.dll

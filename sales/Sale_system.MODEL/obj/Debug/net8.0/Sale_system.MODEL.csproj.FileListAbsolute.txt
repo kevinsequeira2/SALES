@@ -1,0 +1,15 @@
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\bin\Debug\net8.0\Sale_system.MODEL.deps.json
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\bin\Debug\net8.0\Sale_system.MODEL.runtimeconfig.json
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\bin\Debug\net8.0\Sale_system.MODEL.dll
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\bin\Debug\net8.0\Sale_system.MODEL.pdb
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\obj\Debug\net8.0\Sale_system.MODEL.csproj.AssemblyReference.cache
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\obj\Debug\net8.0\Sale_system.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\obj\Debug\net8.0\Sale_system.MODEL.AssemblyInfoInputs.cache
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\obj\Debug\net8.0\Sale_system.MODEL.AssemblyInfo.cs
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\obj\Debug\net8.0\Sale_system.MODEL.csproj.CoreCompileInputs.cache
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\obj\Debug\net8.0\Sale_system.MODEL.sourcelink.json
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\obj\Debug\net8.0\Sale_system.MODEL.dll
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\obj\Debug\net8.0\refint\Sale_system.MODEL.dll
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\obj\Debug\net8.0\Sale_system.MODEL.pdb
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\obj\Debug\net8.0\Sale_system.MODEL.genruntimeconfig.cache
+F:\SALES_SYSTEM\sales\Sale_system.MODEL\obj\Debug\net8.0\ref\Sale_system.MODEL.dll
