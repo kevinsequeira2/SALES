@@ -10,3 +10,9 @@ F:\SALES_SYSTEM\sales\Sale_System.UTILITY\obj\Debug\net8.0\Sale_System.UTILITY.d
 F:\SALES_SYSTEM\sales\Sale_System.UTILITY\obj\Debug\net8.0\refint\Sale_System.UTILITY.dll
 F:\SALES_SYSTEM\sales\Sale_System.UTILITY\obj\Debug\net8.0\Sale_System.UTILITY.pdb
 F:\SALES_SYSTEM\sales\Sale_System.UTILITY\obj\Debug\net8.0\ref\Sale_System.UTILITY.dll
+F:\SALES_SYSTEM\sales\Sale_System.UTILITY\bin\Debug\net8.0\Sale_System.DTO.dll
+F:\SALES_SYSTEM\sales\Sale_System.UTILITY\bin\Debug\net8.0\Sale_system.MODEL.dll
+F:\SALES_SYSTEM\sales\Sale_System.UTILITY\bin\Debug\net8.0\Sale_System.DTO.pdb
+F:\SALES_SYSTEM\sales\Sale_System.UTILITY\bin\Debug\net8.0\Sale_system.MODEL.pdb
+F:\SALES_SYSTEM\sales\Sale_System.UTILITY\obj\Debug\net8.0\Sale_System.UTILITY.csproj.AssemblyReference.cache
+F:\SALES_SYSTEM\sales\Sale_System.UTILITY\obj\Debug\net8.0\Sale_System.UTILITY.csproj.CopyComplete

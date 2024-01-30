@@ -10,3 +10,15 @@ F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\Sale_System.OIC.dll
 F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\refint\Sale_System.OIC.dll
 F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\Sale_System.OIC.pdb
 F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\ref\Sale_System.OIC.dll
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_System.BLL.dll
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_System.DAL.dll
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_System.DTO.dll
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_system.MODEL.dll
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_System.UTILITY.dll
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_System.BLL.pdb
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_System.DTO.pdb
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_System.UTILITY.pdb
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_System.DAL.pdb
+F:\SALES_SYSTEM\sales\Sale_System.OIC\bin\Debug\net8.0\Sale_system.MODEL.pdb
+F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\Sale_System.OIC.csproj.AssemblyReference.cache
+F:\SALES_SYSTEM\sales\Sale_System.OIC\obj\Debug\net8.0\Sale_System.OIC.csproj.CopyComplete
