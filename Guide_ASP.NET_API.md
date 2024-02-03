@@ -27,6 +27,8 @@ TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer
  2. Configure dependences class
  3. Configure Appsettings.json 
 
+ ## Implement interfaces in DAL with repositories
+
 
 
 
