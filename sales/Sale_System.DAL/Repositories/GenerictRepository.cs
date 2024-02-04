@@ -21,29 +21,71 @@ namespace Sale_System.DAL.Repositories
             _salesContext=salesContext;
         }
 
-        public Task<IQueryable<TModel>> Consult(Expression<Func<TModel, bool>> filter = null)
+        public async Task<IQueryable<TModel>> Consult(Expression<Func<TModel, bool>> filter = null)
         {
-            throw new NotImplementedException();
+            try
+            {
+                IQueryable<TModel>queryModel = filter == null? _salesContext.Set<TModel>(): _salesContext.Set<TModel>().Where(filter);
+                return queryModel;
+            }
+            catch
+            {
+                throw;
+            }
         }
 
-        public Task<TModel> Create(TModel model)
+        public async Task<TModel> Create(TModel model)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _salesContext.Set<TModel>().Add(model);
+                await _salesContext.SaveChangesAsync();
+                return model;
+            }catch 
+            {
+                throw;
+            }
         }
 
-        public Task<bool> delete(TModel model)
+        public async Task<bool> delete(TModel model)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _salesContext.Set<TModel>().Remove(model);
+                await _salesContext.SaveChangesAsync();
+                return true;
+            }
+            catch
+            {
+                throw;
+            }
         }
 
-        public Task<bool> Edit(TModel model)
+        public async Task<bool> Edit(TModel model)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _salesContext.Set<TModel>().Update(model);
+                await _salesContext.SaveChangesAsync();
+                return true;
+            }
+            catch
+            {
+                throw;
+            }
         }
 
-        public Task<TModel> Get(Expression<Func<TModel, bool>> filter)
+        public async Task<TModel> Get(Expression<Func<TModel, bool>> filter)
         {
-            throw new NotImplementedException();
+            try
+            {
+                TModel model = await _salesContext.Set<TModel>().FirstOrDefaultAsync(filter);
+                return model;
+            }
+            catch
+            {
+                throw;
+            }
         }
     }
 }

@@ -29,6 +29,12 @@ TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer
 
  ## Implement interfaces in DAL with repositories
 
+ ### Implement Generic Repository 
+
+ * Create contracts
+ * Create methods
+ * Configure methods in async
+
 
 
 
