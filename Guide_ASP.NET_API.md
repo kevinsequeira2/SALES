@@ -35,6 +35,10 @@ TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer
  * Create methods
  * Configure methods in async
 
+ ## Optional
+
+ ### Configure Sale repository Method
+
 
 
 
