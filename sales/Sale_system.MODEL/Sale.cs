@@ -5,7 +5,7 @@ namespace Sale_system.MODEL;
 
 public partial class Sale
 {
-    public int IdSale { get; set; }
+    public int Documentsale { get; set; }
 
     public string? TypePay { get; set; }
 

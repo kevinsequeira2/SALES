@@ -159,11 +159,11 @@ public partial class DbSalesContext : DbContext
 
         modelBuilder.Entity<Sale>(entity =>
         {
-            entity.HasKey(e => e.IdSale).HasName("PK__SALES__C4AEB19871E88D99");
+            entity.HasKey(e => e.Documentsale).HasName("PK__SALES__C4AEB19871E88D99");
 
             entity.ToTable("SALES");
 
-            entity.Property(e => e.IdSale).HasColumnName("idSale");
+            entity.Property(e => e.Documentsale).HasColumnName("idSale");
             entity.Property(e => e.DateRegister)
                 .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime")
